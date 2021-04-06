@@ -1,0 +1,10 @@
+rl:
+  tenants:
+    - name: t1
+      capacity: 5
+      refillTokens: 1
+      refillPeriodMillis: 10000
+    - name: t2
+      capacity: 1
+      refillTokens: 1
+      refillPeriodMillis: 10000
